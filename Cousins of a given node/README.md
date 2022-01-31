@@ -1,7 +1,6 @@
 
-# Project Title
 
-A brief description of what this project does and who it's for
+
 
 Given a binary tree and a node, print all cousins of given node in order of their appearance. Note that siblings should not be printed.
 
